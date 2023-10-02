@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Record 1",
+    "description": "Description 1",
+    "amount": 10.5
+  },
+  {
+    "id": 2,
+    "name": "Record 2",
+    "description": "Description 2",
+    "amount": 20.0
+  }
+]
